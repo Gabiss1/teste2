@@ -6,7 +6,7 @@
 <li>2 - Dragapult;</li>
 <li>3 - Swellow;</li>
 <li>4 - Treecko;</li>
-<li>5 - Leafeon;</li>
+<li>5 - Glaceon;</li>
 <li>6 - Gliscor;</li>
 <li>7 - Hydreigon;</li>
 <li>8 - Toxapex;</li>
