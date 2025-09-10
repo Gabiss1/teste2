@@ -11,4 +11,5 @@
 <li>7 - Hydreigon;</li>
 <li>8 - Toxapex;</li>
 <li>9 - Torkoal;</li>
-<li>10 - Salamence.</li>
+<li>10 - Salamence;</li>
+<li>11 - Swampert.</li>
